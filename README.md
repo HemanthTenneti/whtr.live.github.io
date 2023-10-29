@@ -1,5 +1,5 @@
 # whtr.[live](https://whtr.live)
-Simplicity meets precision with the minimalistic design of the website. Designed with a passion that I and my friend [Aaloke](https://github.com/AalokeCode/) share for clean aesthetics and functional elegance, this website distills the weather data into a beautifully designed and accesible minimalistic interface. Stripping away unnecessary complexity, it provides users with essential weather updates in a straightforward manner.
+Simplicity meets precision with the minimalistic design of the website. Designed with a passion that I and my friend [Aaloke](https://github.com/AalokeCode/) share for clean aesthetics and functional elegance, this website distills the weather data into a beautifully designed and accessible minimalistic interface. Stripping away unnecessary complexity, it provides users with essential weather updates in a straightforward manner.
 
 ### Svelte + Vite
 
